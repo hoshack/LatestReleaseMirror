@@ -1,4 +1,2 @@
-# repos.txt.example – copy to repos.txt and edit
-
-# 1. No filter – keep all assets from the release
-Happ-proxy/happ-desktopy
+# 5. Disable a line by commenting it with #
+ therealaleph/MasterHttpRelayVPN-RUST|mhrv-rs-windows-amd64.zip 
