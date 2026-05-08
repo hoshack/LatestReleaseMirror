@@ -157,13 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="happ-proxy--happ-desktop"></div>
+<div id="gchq--cyberchef"></div>
 
-### Happ-proxy--happ-desktop
+### gchq--CyberChef
 
-🔗 [source](https://github.com/Happ-proxy/happ-desktop) – [<code><small>2.9.1</small></code>](https://github.com/Happ-proxy/happ-desktop/releases/tag/2.9.1)
+🔗 [source](https://github.com/gchq/CyberChef) – [<code><small>v11.0.0</small></code>](https://github.com/gchq/CyberChef/releases/tag/v11.0.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `setup-Happ.x64.exe` | 89.1 MB | [⬇️ Download](https://raw.githubusercontent.com/hoshack/LatestReleaseMirror/main/releases/Happ-proxy/happ-desktop/setup-Happ.x64.exe) |
+| `CyberChef_v11.0.0.zip` | 71.5 MB | [⬇️ Download](https://raw.githubusercontent.com/hoshack/LatestReleaseMirror/main/releases/gchq/CyberChef/CyberChef_v11.0.0.zip) |
 <!-- RELEASES_END -->
