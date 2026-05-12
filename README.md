@@ -157,13 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="gchq--cyberchef"></div>
+<div id="matsuridayo--nekoray"></div>
 
-### gchq--CyberChef
+### MatsuriDayo--nekoray
 
-🔗 [source](https://github.com/gchq/CyberChef) – [<code><small>v11.0.0</small></code>](https://github.com/gchq/CyberChef/releases/tag/v11.0.0)
+🔗 [source](https://github.com/MatsuriDayo/nekoray) – [<code><small>4.0.1</small></code>](https://github.com/MatsuriDayo/nekoray/releases/tag/4.0.1)
 
 | File | Size | Download |
 |------|------|----------|
-| `CyberChef_v11.0.0.zip` | 71.5 MB | [⬇️ Download](https://raw.githubusercontent.com/hoshack/LatestReleaseMirror/main/releases/gchq/CyberChef/CyberChef_v11.0.0.zip) |
+| `nekoray-4.0.1-2024-12-12-debian-x64.deb` | 12.5 MB | [⬇️ Download](https://raw.githubusercontent.com/hoshack/LatestReleaseMirror/main/releases/MatsuriDayo/nekoray/nekoray-4.0.1-2024-12-12-debian-x64.deb) |
 <!-- RELEASES_END -->
