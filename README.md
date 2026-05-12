@@ -165,5 +165,6 @@ sha256sum FILE_NAME
 
 | File | Size | Download |
 |------|------|----------|
-| `nekoray-4.0.1-2024-12-12-linux-x64.AppImage` | 42.7 MB | [⬇️ Download](https://raw.githubusercontent.com/hoshack/LatestReleaseMirror/main/releases/MatsuriDayo/nekoray/nekoray-4.0.1-2024-12-12-linux-x64.AppImage) |
+| `nekoray-4.0.1-2024-12-12-linux64.zip` | 43.5 MB | [⬇️ Download](https://raw.githubusercontent.com/hoshack/LatestReleaseMirror/main/releases/MatsuriDayo/nekoray/nekoray-4.0.1-2024-12-12-linux64.zip) |
+| `nekoray-4.0.1-2024-12-12-windows64.zip` | 39.7 MB | [⬇️ Download](https://raw.githubusercontent.com/hoshack/LatestReleaseMirror/main/releases/MatsuriDayo/nekoray/nekoray-4.0.1-2024-12-12-windows64.zip) |
 <!-- RELEASES_END -->
