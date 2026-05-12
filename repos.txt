@@ -4,4 +4,4 @@
 
 
 # 3. Mix of keywords and file extensions (note escaping of dots)
-MatsuriDayo/nekoray|\.deb
+MatsuriDayo/nekoray|\.appimage
