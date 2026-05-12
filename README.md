@@ -165,5 +165,5 @@ sha256sum FILE_NAME
 
 | File | Size | Download |
 |------|------|----------|
-| `nekoray-4.0.1-2024-12-12-debian-x64.deb` | 12.5 MB | [⬇️ Download](https://raw.githubusercontent.com/hoshack/LatestReleaseMirror/main/releases/MatsuriDayo/nekoray/nekoray-4.0.1-2024-12-12-debian-x64.deb) |
+| `nekoray-4.0.1-2024-12-12-linux-x64.AppImage` | 42.7 MB | [⬇️ Download](https://raw.githubusercontent.com/hoshack/LatestReleaseMirror/main/releases/MatsuriDayo/nekoray/nekoray-4.0.1-2024-12-12-linux-x64.AppImage) |
 <!-- RELEASES_END -->
