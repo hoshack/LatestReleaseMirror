@@ -157,14 +157,14 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="matsuridayo--nekoray"></div>
+<div id="happ-proxy--happ-desktop"></div>
 
-### MatsuriDayo--nekoray
+### Happ-proxy--happ-desktop
 
-🔗 [source](https://github.com/MatsuriDayo/nekoray) – [<code><small>4.0.1</small></code>](https://github.com/MatsuriDayo/nekoray/releases/tag/4.0.1)
+🔗 [source](https://github.com/Happ-proxy/happ-desktop) – [<code><small>2.14.0</small></code>](https://github.com/Happ-proxy/happ-desktop/releases/tag/2.14.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `nekoray-4.0.1-2024-12-12-linux64.zip` | 43.5 MB | [⬇️ Download](https://raw.githubusercontent.com/hoshack/LatestReleaseMirror/main/releases/MatsuriDayo/nekoray/nekoray-4.0.1-2024-12-12-linux64.zip) |
-| `nekoray-4.0.1-2024-12-12-windows64.zip` | 39.7 MB | [⬇️ Download](https://raw.githubusercontent.com/hoshack/LatestReleaseMirror/main/releases/MatsuriDayo/nekoray/nekoray-4.0.1-2024-12-12-windows64.zip) |
+| `Happ.linux.arm64.deb` | 67.7 MB | [⬇️ Download](https://raw.githubusercontent.com/hoshack/LatestReleaseMirror/main/releases/Happ-proxy/happ-desktop/Happ.linux.arm64.deb) |
+| `Happ.linux.x64.deb` | 72.0 MB | [⬇️ Download](https://raw.githubusercontent.com/hoshack/LatestReleaseMirror/main/releases/Happ-proxy/happ-desktop/Happ.linux.x64.deb) |
 <!-- RELEASES_END -->
