@@ -157,14 +157,5 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="happ-proxy--happ-desktop"></div>
 
-### Happ-proxy--happ-desktop
-
-🔗 [source](https://github.com/Happ-proxy/happ-desktop) – [<code><small>2.14.0</small></code>](https://github.com/Happ-proxy/happ-desktop/releases/tag/2.14.0)
-
-| File | Size | Download |
-|------|------|----------|
-| `Happ.linux.arm64.deb` | 67.7 MB | [⬇️ Download](https://raw.githubusercontent.com/hoshack/LatestReleaseMirror/main/releases/Happ-proxy/happ-desktop/Happ.linux.arm64.deb) |
-| `Happ.linux.x64.deb` | 72.0 MB | [⬇️ Download](https://raw.githubusercontent.com/hoshack/LatestReleaseMirror/main/releases/Happ-proxy/happ-desktop/Happ.linux.x64.deb) |
 <!-- RELEASES_END -->
