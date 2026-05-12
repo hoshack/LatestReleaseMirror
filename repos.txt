@@ -4,4 +4,4 @@
 
 
 # 3. Mix of keywords and file extensions (note escaping of dots)
-Happ-proxy/happ-desktop
+Happ-proxy/happ-desktop\setup-Happ.x64.exe
